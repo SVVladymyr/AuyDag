@@ -20,7 +20,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
               $themeFieldset = "Сообщение: ";
           }
       }
-      
+
       $token = <Укажите токен бота>//"347515248:AAFJiLj2d5SN9Pnf_KB_EIPgxBbSWHcpmpY";
       $chat_id = <Укажите идентификатор чата>//"535771052";
       $arr = array(
